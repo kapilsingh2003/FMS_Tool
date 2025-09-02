@@ -1,0 +1,102 @@
+[
+  {
+    "username": "admin",
+    "name": "Admin User",
+    "password": "123456",
+    "role": "admin",
+    "email": "admin@samsung.com",
+    "department": "IT Administration",
+    "team": "Admin Team",
+    "createdAt": "2025-01-15T08:00:00.000Z"
+  },
+  {
+    "username": "john.kim",
+    "name": "John Kim",
+    "password": "123456",
+    "role": "admin",
+    "email": "john.kim@samsung.com",
+    "department": "ENT_SM",
+    "team": "TeamA",
+    "createdAt": "2025-01-15T03:07:32.106Z"
+  },
+  {
+    "username": "reviewer",
+    "name": "Reviewer User",
+    "password": "123456",
+    "role": "reviewer",
+    "email": "reviewer@samsung.com",
+    "department": "Quality Assurance",
+    "team": "QA Team",
+    "createdAt": "2025-01-15T08:15:00.000Z"
+  },
+  {
+    "username": "viewer",
+    "name": "Viewer User",
+    "password": "123456",
+    "role": "viewer",
+    "email": "viewer@samsung.com",
+    "department": "Product Management",
+    "team": "PM Team",
+    "createdAt": "2025-01-15T08:30:00.000Z"
+  },
+  {
+    "username": "sarah.lee",
+    "name": "Sarah Lee",
+    "password": "123456",
+    "role": "reviewer",
+    "email": "sarah.lee@samsung.com",
+    "department": "ENT_SM",
+    "team": "TeamB",
+    "createdAt": "2025-01-15T09:00:00.000Z"
+  },
+  {
+    "username": "mike.park",
+    "name": "Mike Park",
+    "password": "123456",
+    "role": "reviewer",
+    "email": "mike.park@samsung.com",
+    "department": "R&D",
+    "team": "Development Team",
+    "createdAt": "2025-01-15T09:15:00.000Z"
+  },
+  {
+    "username": "lisa.choi",
+    "name": "Lisa Choi",
+    "password": "123456",
+    "role": "viewer",
+    "email": "lisa.choi@samsung.com",
+    "department": "Marketing",
+    "team": "Marketing Team",
+    "createdAt": "2025-01-15T09:30:00.000Z"
+  },
+  {
+    "username": "david.yang",
+    "name": "David Yang",
+    "password": "password123",
+    "role": "reviewer",
+    "email": "david.yang@samsung.com",
+    "department": "ENT_SM",
+    "team": "TeamC",
+    "createdAt": "2025-01-15T09:45:00.000Z"
+  },
+  {
+    "username": "anna.kim",
+    "name": "Anna Kim",
+    "password": "password123",
+    "role": "viewer",
+    "email": "anna.kim@samsung.com",
+    "department": "Support",
+    "team": "Support Team",
+    "createdAt": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "username": "ron.kim",
+    "name": "Ron Kim",
+    "password": "password123",
+    "role": "admin",
+    "email": "ron.kim@samsung.com",
+    "department": "ENT_SM",
+    "team": "TeamA",
+    "createdAt": "2025-01-15T03:12:11.297Z"
+  }
+]

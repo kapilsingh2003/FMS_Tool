@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.eslintcache
+.node_repl_history
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+.pytest_cache/
+.mypy_cache/git
+.ipynb_checkpoints/
